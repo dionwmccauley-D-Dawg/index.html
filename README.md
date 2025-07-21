@@ -1,4 +1,3 @@
-# index.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -91,7 +90,7 @@
 
     <script>
         // Initialize Stripe
-        const stripe = Stripe('pk_test_...');pk_live_51Rn5OUKHOkbIJcHXhvaP6qkzjMJlxgaGULjNdYCkMtX982JUFRh9PNdj4AuZWTwPoqm1VV7jflvahYohOTOlNAam00oCxrWAcY
+        const stripe = Stripe('pk_test_51Rn5OUKHOkbIJcHXO3y5T0m1RjQz0tNKN3z0W5o4P5fV9BRk8fC3sW2P3mB7N8yJ4kL5hG7vM9nQ2rT8pL6qW3x00zYxW8vK9'); // Replace with your test publishable key
         // Cart functionality
         let cart = [];
 
