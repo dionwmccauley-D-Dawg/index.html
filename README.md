@@ -91,7 +91,7 @@
 
     <script>
         // Initialize Stripe
-        const stripe = Stripe('pk_test_your_publishable_key'); // Replace with your Stripe publishable key
+        const stripe = Stripepk_live_51Rn5OUKHOkbIJcHXhvaP6qkzjMJlxgaGULjNdYCkMtX982JUFRh9PNdj4AuZWTwPoqm1VV7jflvahYohOTOlNAam00oCxrWAcY
 
         // Cart functionality
         let cart = [];
