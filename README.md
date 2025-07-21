@@ -91,8 +91,7 @@
 
     <script>
         // Initialize Stripe
-        const stripe = Stripepk_live_51Rn5OUKHOkbIJcHXhvaP6qkzjMJlxgaGULjNdYCkMtX982JUFRh9PNdj4AuZWTwPoqm1VV7jflvahYohOTOlNAam00oCxrWAcY
-
+        const stripe = Stripe('pk_test_...');pk_live_51Rn5OUKHOkbIJcHXhvaP6qkzjMJlxgaGULjNdYCkMtX982JUFRh9PNdj4AuZWTwPoqm1VV7jflvahYohOTOlNAam00oCxrWAcY
         // Cart functionality
         let cart = [];
 
